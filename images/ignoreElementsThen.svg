@@ -837,8 +837,8 @@
      showgrid="false"
      inkscape:window-width="1230"
      inkscape:window-height="894"
-     inkscape:window-x="91"
-     inkscape:window-y="14"
+     inkscape:window-x="182"
+     inkscape:window-y="78"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -848,7 +848,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
