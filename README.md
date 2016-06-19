@@ -13,3 +13,8 @@ Example
 ----------------
 <img src="images/collectWhile.png?raw=true" />
 
+Tips
+-----------------
+I'm no graphic artist that's for sure but there's lots of help on the web for stuff you might want to do in Inkscape. 
+
+
