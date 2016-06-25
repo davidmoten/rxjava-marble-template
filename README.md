@@ -1,7 +1,7 @@
 # rxjava-marble-template
 Inkscape svg template mimicking rxjava style marble diagrams
 
-Using Inkscape (free open-source software available on Linux and other platforms), open this file:
+Using [Inkscape](https://inkscape.org/en/) (free open-source software available on Linux and other platforms), open this file:
 
 ```
 marble-diagram.svg
